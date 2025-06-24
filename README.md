@@ -9,7 +9,7 @@
 ### Мы использовали:
 1. Python
 2. Библиотеку aiogram
-3. Google presentations
+3. Yandex GPT
 4. Telegram
 
 ### Контакт для вопросов:
